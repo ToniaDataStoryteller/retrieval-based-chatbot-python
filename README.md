@@ -8,7 +8,7 @@
 
 **Framework:** Python & NLTK (Natural Language Toolkit)  
 
-**GitHub Repository:** [retrieval-based-chatbot-python](https://github.com/ToniaDataStoryteller/retrieval-based-chatbot-python.git)
+**GitHub Repository:** [retrieval-based-chatbot-python](https://github.com/ToniaDataStoryteller/retrieval-based-chatbot-python)
 
 ---
 
@@ -38,7 +38,7 @@ By following this logic, the chatbot avoids hallucinations, ensuring every respo
 
 *   **Dataset Access:** [View chatbot.txt here](./chatbot.txt)
 
-*   **Tools Used:** Python 3.12+, NLTK, and Streamlit.
+*   **Tools Used:** Python 3.12, NLTK, and Streamlit.
 
 
 ## 🚀 **Key Technical Achievements**

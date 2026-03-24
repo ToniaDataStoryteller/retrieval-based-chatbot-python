@@ -108,8 +108,8 @@ with st.sidebar:
     
     # 4. External Verification
     st.markdown("### Source Code")
-    st.markdown("[🔗 GitHub Repository](INSERT_LINK_HERE)")
-    st.markdown("[🔗 LinkedIn Profile](INSERT_LINK_HERE)")
+    st.markdown("[🔗 GitHub Repository](https://github.com/ToniaDataStoryteller/retrieval-based-chatbot-python)")
+    st.markdown("[🔗 LinkedIn Profile](https://linkedin.com/in/tonia-ethuakhor)") 
 
 # --- Main User Interface ---
 st.title("🤖 Knowledge-Based Chatbot")
