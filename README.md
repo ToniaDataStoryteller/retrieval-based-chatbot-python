@@ -10,6 +10,8 @@
 
 **GitHub Repository:** [retrieval-based-chatbot-python](https://github.com/ToniaDataStoryteller/retrieval-based-chatbot-python)
 
+**Live Demo:** [Click here to try the Chatbot](https://retrieval-chatbot-tonia.streamlit.app)
+
 ---
 
 
